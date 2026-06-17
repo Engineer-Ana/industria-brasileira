@@ -34,7 +34,7 @@ Dashboard completo com dados reais da Pesquisa Industrial Anual (PIA) do IBGE.
 5. **🏭 Duas indústrias:** A Indústria de Transformação emprega mais, mas a Extrativa gera muito mais valor por trabalhador — reflexo da dependência de commodities.
 
 ## 🔗 Dashboard no Looker Studio
-[[Link para o relatório interativo]([https://datastudio.google.com/s/sKH-MOuP170])
+https://datastudio.google.com/s/sKH-MOuP170
 
 ## 📚 Fonte
 IBGE - Pesquisa Industrial Anual (PIA) - Tabela 1849
